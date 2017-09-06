@@ -1,0 +1,6 @@
+Hello ez itt az fil.txt file!
+Számold meg hány karakter, szó van itt!
+Sok sikert!
+Hello ez itt az fil.txt file!
+Sok sikert!
+Számold meg hány karakter, szó van itt!
